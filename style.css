@@ -85,5 +85,9 @@ article > section {
 h1 {
     font-size: 20px;
 }
-
+figcaption{
+    text-decoration: underline;
+    text-align: right;
+    font-size: 10px;
+}
 
